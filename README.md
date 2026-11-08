@@ -5,7 +5,6 @@
 Junior Developer. Focused on backend systems, scripting tools, and system automation.
 
 - 🔭 **Working on:** Fill my Portfolio's
-- 🌱 **Currently learning:** C#
 - 💬 **Ask me about:** TypeScript, Next.js, Cloud Architecture, Python.
 - 📍 **Location:** Haifa District, Israel
 - 📫 **Reach me at:** [idank114o@gmail.com](mailto:idank114o@gmail.com)
