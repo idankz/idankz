@@ -1,14 +1,14 @@
 # Hi there, I'm Idan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=false&vCenter=true&width=500&lines=Junior%20Developer.;Open%20Source%20Contributor;Cloud%20Architecture%20Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=false&vCenter=true&width=500&lines=Junior%20Developer;Backend%20and%20Automation;Python%20and%20TypeScript)](https://git.io/typing-svg)
 
 Junior Developer. Focused on backend systems, scripting tools, and system automation.
 
-- 🔭 **Working on:** Fill my Portfolio's
-- 💬 **Ask me about:** TypeScript, Next.js, Cloud Architecture, Python.
+- 🔭 **Working on:** [portkill](https://github.com/idankz/portkill), a CLI for freeing stuck ports
+- 💬 **Ask me about:** Python, TypeScript, Next.js, CLI tooling
 - 📍 **Location:** Haifa District, Israel
 - 📫 **Reach me at:** [idank114o@gmail.com](mailto:idank114o@gmail.com)
-- ⚡ **Fun fact:** I brew my own espresso and contribute to open-source at 2 AM.
+- ⚡ **Fun fact:** I brew my own espresso and ship side projects at 2 AM.
 
 ---
 
@@ -18,8 +18,14 @@ Junior Developer. Focused on backend systems, scripting tools, and system automa
 
 ---
 
+## 🚀 Projects
+
+- **[portkill](https://github.com/idankz/portkill)**: Python CLI that finds and stops the process holding a port, with safety guards and tests in CI.
+- **[KRONA](https://github.com/idankz/krona-agency)**: concept agency site built with Next.js, TypeScript and Tailwind. [Live demo](https://krona-agency-nextjs.vercel.app/).
+- **[ProfileREADME](https://github.com/idankz/-ProfileREADME)**: GitHub profile README generator with a live preview.
+
+---
+
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idankuz) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idank114o@gmail.com)
----
-<p align="center"><em>Generated with <a href="https://github.com/idankuz/-ProfileREADME">ProfileREADME.dev</a> 🚀</em></p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idankz) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idank114o@gmail.com)
